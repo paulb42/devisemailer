@@ -192,9 +192,9 @@ DEPENDENCIES
   font-awesome-sass (~> 4.6, >= 4.6.2)
   jbuilder (~> 2.0)
   jquery-rails
-  pg (~> 1.0)
+  pg
   rails (= 4.2.5)
-  rails_12factor (~> 0.0.3)
+  rails_12factor
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
   simple_form (~> 3.5)
